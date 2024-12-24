@@ -3,15 +3,6 @@ Gui tool to clean/normalize and process a pgn file
 
 
 
-
-Python script version requires the following installed:
-
-pip install tk
-pip install tqdm
-pip install py7zr
-pip install requests
-
-
 This program uses the following great pgn tools:
 
 1.  PGN-Extract by David J Barnes         :    https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/
@@ -70,4 +61,10 @@ This program uses the following great pgn tools:
 
 
 
+Python script version requires the following installed:
+
+pip install tk
+pip install tqdm
+pip install py7zr
+pip install requests
 
