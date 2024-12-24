@@ -43,7 +43,7 @@ This program uses the following great pgn tools:
         
         ------  If  'Create Extra Stats'  checkbox is ticked  -------
        
-	   Step 14: 'Ordo'             to produce an ELO ratings list
+        Step 14: 'Ordo'             to produce an ELO ratings list
         Step 15: 'NameList'         to produce player stats file
         Step 16: 'clusterList'      to list player clusters
         Step 17: 'colorList'        to list player results by colour
